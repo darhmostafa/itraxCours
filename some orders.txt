@@ -1,0 +1,9 @@
+
+
+	##	git status 				for show my new files 
+	
+	##	git add name of files or *		to add new files 
+
+	##	git reset head name of files 		to back down spasiphc files i uploda it with a mistac
+
+	##	
