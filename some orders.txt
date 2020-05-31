@@ -1,9 +1,30 @@
 
 
-	##	git status 				for show my new files 
-	
-	##	git add name of files or *		to add new files 
 
-	##	git reset head name of files 		to back down spasiphc files i uploda it with a mistac
+
+	##	git clone 								to download the project that i will do some adjustment on it 
+
+
+
+
+
+	##	git status 								for show my new files 
+	
+	##	git add name of files or *						to add new files 
+
+	##	git reset head name of files 						to back down spasiphc files i uploda it with a mistac
+
+	##	git commit -m "my describtion about what i did in the project" 		to commit my adjustment
+
+
+
+
+	
+	
+	##	git branch 								led me to the part that i work on mostky the master
+	
+	##	git push 'name remote' 'name branch'					to push me editetion to the perject with the neme of remote and name of branch			
+
+	##	git remote -v								get the origin	
 
 	##	
